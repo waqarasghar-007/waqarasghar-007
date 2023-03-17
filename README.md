@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @waqarasghar-007
 - 👀 I’m interested in web programming , ethica hacking and planing.
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on ethical hacking
+- 💞️ I’m looking to collaborate on machine Learning
 - 📫 How to reach me , asgharwaqar75@gmail.com or WhatsApp at +923014831861
 
 
